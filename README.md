@@ -3,26 +3,22 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights;3%2B+Years+in+Data+Analytics+and+Optimisation;Financial+Analysis+%7C+Accounting+Analytics+%7C+Business+%26+Data+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights;3%2B+Years+in+Data+Analytics+and+Optimisation;Financial+Analysis+%7C+Accounting+Analytics+%7C+Business+%26+Data+Analysis" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ekekwegodswill/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:ekekwegodswill@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Results-driven Business and Data Analyst with 3+ years of experience applying data analysis to business, financial, and operational challenges. A strong foundation in accounting, financial analysis, business operations, and data-driven decision-making. Skilled in analyzing financial and operational data, developing insightful reports and dashboards, identifying process improvement opportunities, and translating complex data into actionable business insights. Experienced in streamlining reporting processes, improving data accuracy, and implementing analytical solutions that enhance efficiency and support strategic objectives. Strong collaborator with the ability to work effectively across teams, communicate analytical findings to stakeholders, and use data to drive measurable business and financial outcomes.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 My Portfolio ](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## 🔭 I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
