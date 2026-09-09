@@ -1,9 +1,9 @@
-## Hello, I'm Ekekwe Godswill O. 👋
+# 👋 Hi, I'm Godswill Ekekwe
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=935&lines=Data+Analyst+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights;3%2B+Years+in+Data+Analytics+and+Optimisation;Financial+Analysis+%7C+Accounting+Analytics+%7C+Business+%26+Data+Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=935&lines=Business+Data+Analyst+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights;7%2B+Years+in+Data+Analytics+and+Optimisation;Financial+Analysis+%7C+Accounting+Analytics+%7C+Operational+Data+Analysis" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,42 +13,164 @@
 </p>
 
 ## 🚀 About Me 
-Results-driven Business and Data Analyst with 3+ years of experience applying data analysis to business, financial, and operational challenges. A strong foundation in accounting, financial analysis, business operations, and data-driven decision-making. Skilled in analyzing financial and operational data, developing insightful reports and dashboards, identifying process improvement opportunities, and translating complex data into actionable business insights. Experienced in streamlining reporting processes, improving data accuracy, and implementing analytical solutions that enhance efficiency and support strategic objectives. Strong collaborator with the ability to work effectively across teams, communicate analytical findings to stakeholders, and use data to drive measurable business and financial outcomes.
+
+### Business Data Analyst | Business Intelligence | Financial & Operational Analytics
+
+I turn **business, financial, and operational data into actionable insights, interactive dashboards, automated reports, and decision-support solutions.**
+
+My work combines **Data Analytics, Business Intelligence, Financial Analysis, Accounting, and Business Operations** to help organizations understand performance, identify opportunities, improve processes, and make better data-driven decisions.
+
+With **7+ years of cross-functional experience**, I have worked across analytics, reporting, financial analysis, customer operations, performance management, and process improvement.
+
+> **I don't just analyze data. I connect the numbers to the business decisions behind them.**
+
+---
+
+## 🚀 What I Do
+
+📊 **Business & Data Analytics**  
+Analyze business data to uncover trends, patterns, opportunities, risks, and performance drivers.
+
+📈 **Business Intelligence & Power BI**  
+Build interactive dashboards, KPI reports, management reporting solutions, and decision-ready visualizations.
+
+💰 **Financial Analytics**  
+Analyze revenue, expenses, profitability, budgets, variances, financial performance, and business scenarios.
+
+🗄️ **SQL & Data Analysis**  
+Extract, transform, validate, aggregate, and analyze data from relational databases.
+
+📑 **Excel Analytics & Automation**  
+Develop analytical models, dashboards, recurring reports, Power Query workflows, and VBA-based automation.
+
+⚙️ **Data Cleaning & Transformation**  
+Turn messy, inconsistent, and disconnected data into reliable, analysis-ready datasets.
+
+🎯 **Performance & KPI Analytics**  
+Monitor business performance, investigate anomalies, identify root causes, and support management decisions.
+
+---
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 My Portfolio ](https://your-username.github.io/)
       
-## 🔭 I'm Currently Working On 
+---
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+# 🧠 My Analytics Approach
 
-## 🌱 Currently Learning 
+I follow a **business-first analytics process**:
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+**01 — Understand**  
+Define the business problem, objective, KPI, or decision.
 
-## 🛠️ Technical Skillset
+**02 — Prepare**  
+Clean, validate, transform, and structure the data.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+**03 — Analyze**  
+Identify trends, relationships, anomalies, and performance drivers.
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+**04 — Visualize**  
+Build dashboards and reports that communicate the findings clearly.
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+**05 — Interpret**  
+Translate analytical results into meaningful business insights.
 
-#### Business Intelligence & Analytics
+**06 — Recommend**  
+Identify opportunities, risks, priorities, and potential actions.
+
+> **The objective isn't simply to create a dashboard. The objective is to make the data useful for decision-making.**
+
+---
+
+# 🛠️ Technical Skills
+
+### Data Analytics & Visualization
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+### Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+### Databases & Data
+
+**MS SQL • MySQL • SQL Querying • Data Transformation • Data Validation • Data Warehousing**
+
+### Business & Financial Analytics
+
+**Financial Analysis • Management Reporting • Budget vs Actual • Variance Analysis • Profitability Analysis • Forecasting • Scenario Analysis • KPI Analysis • Business Performance Analysis**
+
+### Business Intelligence
+
+**Power BI • Data Modeling • KPI Development • Dashboard Development • Performance Monitoring • Trend Analysis • Root-Cause Analysis • Decision Support**
+
+---
+
+# 📊 Core Competencies
+
+| Area | Capabilities |
+|---|---|
+| **Data Analytics** | Data Cleaning, Transformation, Analysis, Validation |
+| **Business Intelligence** | Power BI, Dashboards, KPIs, Reporting |
+| **Financial Analytics** | Financial Analysis, Forecasting, Variance, Profitability |
+| **Business Analysis** | Performance Analysis, Root-Cause Analysis, Decision Support |
+| **Operations Analytics** | KPI Monitoring, Operational Reporting, Process Improvement |
+| **Automation** | Excel, Power Query, VBA, Python |
+| **Databases** | SQL, MS SQL, MySQL, Data Warehousing |
+| **Visualization** | Power BI, Tableau, Excel |
+
+---
+
+# 🔭 Currently Building
+
+I'm actively expanding my portfolio with projects focused on:
+
+- 🚗 Mobility & transportation analytics
+- 🛒 E-commerce & customer analytics
+- 💰 Financial analysis & valuation
+- 💵 Pricing & revenue optimization
+- 📈 Forecasting & business performance
+- 📊 Executive & management dashboards
+- 🗄️ SQL-based analytical solutions
+
+Each project is designed to demonstrate the complete analytical workflow:
+
+**Business Problem → Data Preparation → Analysis → Visualization → Insights → Recommendations**
+
+---
+
+# 🌱 Continuous Learning
+
+I'm continuously strengthening my capabilities in:
+
+- Advanced Power BI & DAX
+- Advanced SQL & data modeling
+- Python for data analysis and automation
+- Business forecasting & predictive analytics
+- Financial modeling & scenario analysis
+- Data warehousing & BI architecture
+- Data storytelling & dashboard design
+- AI Automation & Workflow
+
+---
+
+# 🎯 Areas of Interest
+
+**Business Analytics • Data Analytics • Business Intelligence • Financial Analytics • Financial Modeling • Operations Analytics • Performance Analytics • Customer Analytics • Revenue Analytics • Forecasting • Data Visualization • Decision Support**
+
+---
+
+# 📫 Let's Connect
+
+I'm open to collaborating on projects involving:
+
+**Data Analytics • Business Intelligence • Power BI • SQL • Financial Analytics • Excel Automation • Operational Analytics • KPI Dashboards • Reporting • Forecasting • Business Performance Analysis**
+
+> **Have data and a business question? Let's turn the data into insight.**lytics
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
